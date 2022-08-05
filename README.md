@@ -10,3 +10,4 @@ Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * Bayu Nugroho, [LinkedIn](https://www.linkedin.com/in/bayu-nugroho-6080861ba/)
+* Abcd
