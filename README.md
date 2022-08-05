@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Bayu Nugroho, [LinkedIn](https://www.linkedin.com/in/bayu-nugroho-6080861ba/)
